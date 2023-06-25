@@ -1,0 +1,1219 @@
+[
+    {
+        "UserId": "bca_lilian",
+        "Group in PP": [
+            "Directors",
+            "Head of the Departments",
+            "Special HODs",
+            "Approving officers"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca-jocelynxu",
+        "Group in PP": [
+            "Deputy Directors",
+            "Special HODs",
+            "Approving officers"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_weixiang",
+        "Group in PP": [
+            "Directors",
+            "Head of the Departments",
+            "AI-TOP/CSC - Function Head",
+            "Approving officers"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca_kwanjoo",
+        "Group in PP": [
+            "Deputy Directors",
+            "Approving officers",
+            "AI-Buildability - Function Head",
+            "AI-Civil Defense - Function Head",
+            "AI-Structural - Function Head"
+        ],
+        "AccessGroupCount": 5
+    },
+    {
+        "UserId": "bca-kahwai",
+        "Group in PP": [
+            "AI-Civil Defense - Enforcement Officer",
+            "AI-Civil Defense - Function Admin"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_suetlay",
+        "Group in PP": [
+            "AI-TOP/CSC - Enforcement Officer"
+        ],
+        "AccessGroupCount": 1
+    },
+    {
+        "UserId": "bca-ernyong",
+        "Group in PP": [
+            "AI-TOP/CSC - Enforcement Officer",
+            "AI-TOP/CSC - Function Admin"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_yujunt",
+        "Group in PP": [
+            "Enforcement Coordinators",
+            "AI-TOP/CSC - Enforcement Officer",
+            "AI-TOP/CSC - Function Admin"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_farida",
+        "Group in PP": [
+            "Enforcement Coordinators",
+            "AI-TOP/CSC - Enforcement Officer",
+            "AI-TOP/CSC - Function Admin"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca-kailoh",
+        "Group in PP": [
+            "PP Admins",
+            "AI-Civil Defense - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-Ajumunisa",
+        "Group in PP": [
+            "AI-Buildability - Function Admin",
+            "AI-Civil Defense - Enforcement Officer",
+            "PP Admins"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca-yeefoong",
+        "Group in PP": [
+            "AI-TOP/CSC - Enforcement Officer"
+        ],
+        "AccessGroupCount": 1
+    },
+    {
+        "UserId": "bca-yenleng",
+        "Group in PP": [
+            "AI-TOP/CSC - Enforcement Officer"
+        ],
+        "AccessGroupCount": 1
+    },
+    {
+        "UserId": "bca_GhimSeng",
+        "Group in PP": [
+            "AI-TOP/CSC - Enforcement Officer"
+        ],
+        "AccessGroupCount": 1
+    },
+    {
+        "UserId": "bca_weikay",
+        "Group in PP": [
+            "AI-TOP/CSC - Function Head",
+            "AI-Buildability - Function Head",
+            "AI-Civil Defense - Function Head",
+            "Group Directors",
+            "System Owners",
+            "Approving officers",
+            "Head of the Departments"
+        ],
+        "AccessGroupCount": 7
+    },
+    {
+        "UserId": "bca_bekmei",
+        "Group in PP": [
+            "Directors",
+            "Head of the Departments",
+            "Approving officers",
+            "BE-Structural - Function Head"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca_chitrung",
+        "Group in PP": [
+            "Directors",
+            "Head of the Departments",
+            "Approving officers",
+            "BE-Structural - Function Head"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca-chinsoon",
+        "Group in PP": [
+            "Directors",
+            "Head of the Departments",
+            "Approving officers",
+            "BE-Structural - Function Head"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca_hianhao",
+        "Group in PP": [
+            "Directors",
+            "Head of the Departments",
+            "Approving officers",
+            "BE-Structural - Function Head"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca_naisong",
+        "Group in PP": [
+            "Directors",
+            "Head of the Departments",
+            "Approving officers",
+            "BE-Structural - Function Head"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca_teohyaw",
+        "Group in PP": [
+            "Directors",
+            "Head of the Departments",
+            "Approving officers",
+            "BE-Structural - Function Head"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca_hengchoy",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer"
+        ],
+        "AccessGroupCount": 1
+    },
+    {
+        "UserId": "bca_chrischong",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer"
+        ],
+        "AccessGroupCount": 1
+    },
+    {
+        "UserId": "bca_geoklee",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer"
+        ],
+        "AccessGroupCount": 1
+    },
+    {
+        "UserId": "bca_heeyang",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer"
+        ],
+        "AccessGroupCount": 1
+    },
+    {
+        "UserId": "bca_fangping",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer"
+        ],
+        "AccessGroupCount": 1
+    },
+    {
+        "UserId": "bca-aiyan1",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer",
+            "BE-Structural - Function Admin"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_enghuat2",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer",
+            "BE-Structural - Function Admin"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_sellfeng",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer",
+            "BE-Structural - Function Admin"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_allan",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer",
+            "BE-Structural - Function Admin"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_yennee",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer",
+            "BE-Structural - Function Admin"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_lengboon",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer",
+            "BE-Structural - Function Admin"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_wangqin",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer",
+            "BE-Structural - Function Admin"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_hsiaochiang",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer",
+            "BE-Structural - Function Admin"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_wankhin",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer",
+            "PP Admins"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-yidian",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer",
+            "PP Admins"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-yongxiang",
+        "Group in PP": [
+            "BE-Structural - Enforcement Officer",
+            "Enforcement Coordinators"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_chunyong",
+        "Group in PP": [
+            "Group Directors",
+            "Approving officers",
+            "BE-Structural - Function Head",
+            "GGDD - Function Head",
+            "Head of the Departments"
+        ],
+        "AccessGroupCount": 5
+    },
+    {
+        "UserId": "bca_wangin",
+        "Group in PP": [
+            "Directors",
+            "Head of the Departments",
+            "Approving officers",
+            "Building Maintenance (Ext Painting) - Function Head",
+            "Outdoor Advertising - Function Head",
+            "Temporary Building - Function Head"
+        ],
+        "AccessGroupCount": 6
+    },
+    {
+        "UserId": "bca_meiyeel",
+        "Group in PP": [
+            "Outdoor Advertising - Function Admin",
+            "Outdoor Advertising - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_kengswee",
+        "Group in PP": [
+            "Building Plan - Enforcement Officer"
+        ],
+        "AccessGroupCount": 1
+    },
+    {
+        "UserId": "bca_sionging",
+        "Group in PP": [
+            "Building Plan - Enforcement Officer",
+            "Building Plan - Function Admin",
+            "PP Admins"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca-Huiyu",
+        "Group in PP": [
+            "Basic Accessibility Legis - Function Admin",
+            "Basic Accessibility Legis - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_szelieh",
+        "Group in PP": [
+            "Building Plan - Enforcement Officer"
+        ],
+        "AccessGroupCount": 1
+    },
+    {
+        "UserId": "bca_guowei",
+        "Group in PP": [
+            "Building Plan - Function Admin",
+            "Basic Accessibility Legis - Function Admin",
+            "PP Admins"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_shiauling",
+        "Group in PP": [
+            "Temporary Building - Enforcement Officer",
+            "Temporary Building - Function Admin"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-songching",
+        "Group in PP": [
+            "Enforcement Coordinators",
+            "Building Plan - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-vickilow",
+        "Group in PP": [
+            "Building Plan - Enforcement Officer"
+        ],
+        "AccessGroupCount": 1
+    },
+    {
+        "UserId": "bca_YuZi",
+        "Group in PP": [
+            "Directors",
+            "Head of the Departments",
+            "Building Plan - Function Head",
+            "Approving officers"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca_jeremytan",
+        "Group in PP": [
+            "Deputy Directors",
+            "Approving officers",
+            "Building Maintenance (Ext Painting) - Function Head",
+            "Outdoor Advertising - Function Head",
+            "Temporary Building - Function Head"
+        ],
+        "AccessGroupCount": 5
+    },
+    {
+        "UserId": "bca_KehYing",
+        "Group in PP": [
+            "Directors",
+            "Head of the Departments",
+            "Approving officers"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_JwuYih",
+        "Group in PP": [
+            "Directors",
+            "Head of the Departments",
+            "Building Plan - Function Head",
+            "Basic Accessibility Legis - Function Head",
+            "Approving officers"
+        ],
+        "AccessGroupCount": 5
+    },
+    {
+        "UserId": "bca_clement",
+        "Group in PP": [
+            "Building Maintenance (Ext Painting) - Function Head",
+            "Outdoor Advertising - Function Head",
+            "Temporary Building - Function Head",
+            "Building Plan - Function Head",
+            "Basic Accessibility Legis - Function Head",
+            "Group Directors",
+            "Approving officers",
+            "Head of the Departments"
+        ],
+        "AccessGroupCount": 8
+    },
+    {
+        "UserId": "bca_punithan",
+        "Group in PP": [
+            "Directors",
+            "Head of the Departments",
+            "PSI - Function Head",
+            "Approving officers",
+            "BR Adhoc - Function Head"
+        ],
+        "AccessGroupCount": 5
+    },
+    {
+        "UserId": "bca-cheeweye",
+        "Group in PP": [
+            "Directors",
+            "Head of the Departments",
+            "PFI - Function Head",
+            "Approving officers",
+            "BR Adhoc - Function Head"
+        ],
+        "AccessGroupCount": 5
+    },
+    {
+        "UserId": "bca_ziyun",
+        "Group in PP": [
+            "BR Adhoc - Function Admin",
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer",
+            "PFI - Function Admin",
+            "PSI - Enforcement Officer",
+            "PSI - Function Admin"
+        ],
+        "AccessGroupCount": 6
+    },
+    {
+        "UserId": "bca_DahWei",
+        "Group in PP": [
+            "BR Adhoc - Function Admin",
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer",
+            "PFI - Function Admin",
+            "PSI - Enforcement Officer",
+            "PSI - Function Admin",
+            "PP Admins"
+        ],
+        "AccessGroupCount": 7
+    },
+    {
+        "UserId": "bca_phengweng",
+        "Group in PP": [
+            "BR Adhoc - Function Admin",
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer",
+            "PFI - Function Admin",
+            "PSI - Enforcement Officer",
+            "PSI - Function Admin"
+        ],
+        "AccessGroupCount": 6
+    },
+    {
+        "UserId": "bca_jiju",
+        "Group in PP": [
+            "BR Adhoc - Function Admin",
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer",
+            "PFI - Function Admin",
+            "PSI - Enforcement Officer",
+            "PSI - Function Admin"
+        ],
+        "AccessGroupCount": 6
+    },
+    {
+        "UserId": "bca-lupin",
+        "Group in PP": [
+            "BR Adhoc - Function Admin",
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer",
+            "PFI - Function Admin",
+            "PSI - Enforcement Officer",
+            "PSI - Function Admin",
+            "PP Admins"
+        ],
+        "AccessGroupCount": 7
+    },
+    {
+        "UserId": "bca_alanng",
+        "Group in PP": [
+            "BR Adhoc - Function Admin",
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer",
+            "PFI - Function Admin",
+            "PSI - Enforcement Officer",
+            "PSI - Function Admin"
+        ],
+        "AccessGroupCount": 6
+    },
+    {
+        "UserId": "bca_ chiawen",
+        "Group in PP": [
+            "BR Adhoc - Function Admin",
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer",
+            "PFI - Function Admin",
+            "PSI - Enforcement Officer",
+            "PSI - Function Admin"
+        ],
+        "AccessGroupCount": 6
+    },
+    {
+        "UserId": "bca_koonpeng",
+        "Group in PP": [
+            "BR Adhoc - Function Admin",
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer",
+            "PFI - Function Admin",
+            "PSI - Enforcement Officer",
+            "PSI - Function Admin"
+        ],
+        "AccessGroupCount": 6
+    },
+    {
+        "UserId": "bca_wailun",
+        "Group in PP": [
+            "BR Adhoc - Function Admin",
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer",
+            "PFI - Function Admin",
+            "PSI - Enforcement Officer",
+            "PSI - Function Admin"
+        ],
+        "AccessGroupCount": 6
+    },
+    {
+        "UserId": "bca-chiwei",
+        "Group in PP": [
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer",
+            "Enforcement Coordinators"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca_azidah",
+        "Group in PP": [
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_leongsiong",
+        "Group in PP": [
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer",
+            "PFI - Function Head"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca_WeeKeong",
+        "Group in PP": [
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_kongyan",
+        "Group in PP": [
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca-kinyip",
+        "Group in PP": [
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_wannkuang",
+        "Group in PP": [
+            "BR Adhoc - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_weekeongh",
+        "Group in PP": [
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_Zhengao",
+        "Group in PP": [
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca-xuanliu",
+        "Group in PP": [
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer",
+            "PFI - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_leefong",
+        "Group in PP": [
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca-Farong",
+        "Group in PP": [
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca-markteo",
+        "Group in PP": [
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca-michelle",
+        "Group in PP": [
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_jeffri",
+        "Group in PP": [
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_jumat",
+        "Group in PP": [
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca-abdul",
+        "Group in PP": [
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_seeluh",
+        "Group in PP": [
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca-noorul",
+        "Group in PP": [
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_jenhau",
+        "Group in PP": [
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca-vickiwong",
+        "Group in PP": [
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_SweeSheng",
+        "Group in PP": [
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_Dianfeng",
+        "Group in PP": [
+            "PFI - Enforcement Officer",
+            "PSI - Enforcement Officer",
+            "BR Adhoc - Enforcement Officer"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_steveang",
+        "Group in PP": [
+            "Deputy Directors",
+            "Approving officers",
+            "PSI - Function Head",
+            "BR Adhoc - Function Head"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca_ahching",
+        "Group in PP": [
+            "Deputy Directors",
+            "Approving officers",
+            "BR Adhoc - Function Head",
+            "PSI - Function Head"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca_WeiWan",
+        "Group in PP": [
+            "Directors",
+            "Approving officers",
+            "BR Adhoc - Function Head",
+            "Head of the Departments",
+            "PSI - Function Head"
+        ],
+        "AccessGroupCount": 5
+    },
+    {
+        "UserId": "bca_muijoo",
+        "Group in PP": [
+            "BR Adhoc - Function Admin",
+            "PFI - Function Admin",
+            "PSI - Function Admin"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_thanabal",
+        "Group in PP": [
+            "PSI - Function Head",
+            "BR Adhoc - Function Head",
+            "PFI - Function Head",
+            "Transit Shelter - Function Head",
+            "Commissioners",
+            "Head of the Departments",
+            "Approving officers",
+            "Group Directors"
+        ],
+        "AccessGroupCount": 8
+    },
+    {
+        "UserId": "bca-justintai",
+        "Group in PP": [
+            "Directors",
+            "Head of the Departments",
+            "Fixed Installation - Function Head",
+            "Amusement Rides  - Function Head",
+            "Approving officers"
+        ],
+        "AccessGroupCount": 5
+    },
+    {
+        "UserId": "bca_dalun",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer",
+            "Fixed Installation - Function Admin",
+            "Enforcement Coordinators"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca_zhongzhi",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer",
+            "Fixed Installation - Function Admin",
+            "Amusement Rides  - Function Admin"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca_jody",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer",
+            "Fixed Installation - Function Admin",
+            "Enforcement Coordinators"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca-simin",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer",
+            "Fixed Installation - Function Admin"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca_rayner",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer",
+            "Fixed Installation - Function Admin",
+            "PP Admins"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca_kwokseng",
+        "Group in PP": [
+            "Amusement Rides  - Function Admin",
+            "Fixed Installation - Function Admin",
+            "PP Admins"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca-yihperng",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer",
+            "Enforcement Coordinators"
+        ],
+        "AccessGroupCount": 3
+    },
+    {
+        "UserId": "bca-tengkiat",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-Arif",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_yaohui",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-yixuan",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_jayaraman",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-joshuasim",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-KennethOng",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-karjun",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-kangwei",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-boonfong",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-zhengyang",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_TeckEng",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-nickyeo",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-kahlip",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-shawnedward",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-boonki",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_SengYeow",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_cheekeongt",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-jianzhi",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_chwoonyoung",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_Yuanhang",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_wangyu",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-andygoh1",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_hashim",
+        "Group in PP": [
+            "Directors",
+            "Approving officers",
+            "Fixed Installation - Function Head",
+            "Head of the Departments",
+            "Amusement Rides  - Function Head"
+        ],
+        "AccessGroupCount": 5
+    },
+    {
+        "UserId": "bca_TaiLon",
+        "Group in PP": [
+            "Amusement Rides  - Enforcement Officer",
+            "Fixed Installation - Enforcement Officer",
+            "Fixed Installation - Function Admin",
+            "Amusement Rides  - Function Admin"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca-KeeChong",
+        "Group in PP": [
+            "Directors",
+            "Approving officers",
+            "Fixed Installation - Function Head",
+            "Head of the Departments",
+            "Amusement Rides  - Function Head"
+        ],
+        "AccessGroupCount": 5
+    },
+    {
+        "UserId": "bca_orhhai",
+        "Group in PP": [
+            "Fixed Installation - Function Head",
+            "Amusement Rides  - Function Head",
+            "Group Directors",
+            "Approving officers",
+            "Head of the Departments"
+        ],
+        "AccessGroupCount": 5
+    },
+    {
+        "UserId": "bca-chinjiat",
+        "Group in PP": [
+            "Deputy Directors",
+            "Approving officers",
+            "Fixed Installation - Function Head",
+            "Amusement Rides  - Function Head"
+        ],
+        "AccessGroupCount": 4
+    },
+    {
+        "UserId": "bca-bina",
+        "Group in PP": [
+            "Approving officers",
+            "Enforcement Coordinators"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-gurmesh",
+        "Group in PP": [
+            "Enforcement Coordinators",
+            "Approving officers"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-AmbroseSim",
+        "Group in PP": [
+            "Approving officers",
+            "Enforcement Coordinators"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca-RebeccaChang",
+        "Group in PP": [
+            "Approving officers",
+            "Enforcement Coordinators"
+        ],
+        "AccessGroupCount": 2
+    },
+    {
+        "UserId": "bca_chileong",
+        "Group in PP": [
+            "Approving officers",
+            "Head of the Departments",
+            "System Owners",
+            "Approving officers",
+            "Commissioners"
+        ],
+        "AccessGroupCount": 5
+    }
+]
